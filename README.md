@@ -8,10 +8,9 @@ handling typical UI automation exceptions.
 
 ---
 
-## 🚀 Tech Stack
-- **Playwright**
-- **JavaScript (Node.js)**
-- **GitHub Actions** (CI)
+URL: https://practicetestautomation.com
+OS : Windows 11
+IDE : Visual Studio Code
 
 ---
 
