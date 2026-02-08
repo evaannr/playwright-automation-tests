@@ -5,15 +5,11 @@ https://practicetestautomation.com as a practice website.
 
 The project focuses on validating common UI behaviors, login functionality, and
 handling typical UI automation exceptions.
-
----
 ```
 URL: https://practicetestautomation.com
 OS : Windows 11
 IDE : Visual Studio Code
 ```
----
-
 ## 🧪 Test Coverage
 
 ### 🔐 Authentication
