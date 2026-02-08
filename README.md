@@ -12,11 +12,11 @@ IDE : Visual Studio Code
 ```
 ## 🧪 Test Coverage
 
-### 🔐 Authentication
+### Authentication
 - Login test scenarios
 
-### ⚠️ UI Exception Handling
-The following Selenium-style exceptions are covered and handled using Playwright best practices:
+### UI Exception Handling
+The following exceptions are covered and handled using Playwright best practices:
 - NoSuchElementException
 - ElementNotInteractableException
 - InvalidElementStateException
